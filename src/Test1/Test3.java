@@ -6,6 +6,7 @@ public class Test3 {
 		System.out.println("Git class 3");
 		System.out.println("Git class 4");
 		System.out.println("Temp Brench");
+		System.out.println("Temp2");
 	}
 
 }
